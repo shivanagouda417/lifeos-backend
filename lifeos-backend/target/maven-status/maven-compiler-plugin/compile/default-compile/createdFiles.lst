@@ -1,0 +1,8 @@
+com\lifeos\model\CityProfile.class
+com\lifeos\util\LifeStageUtil.class
+com\lifeos\controller\LifeGuideController.class
+com\lifeos\model\UserProfile.class
+com\lifeos\engine\CityOpportunityEngine.class
+com\lifeos\model\CitySignal.class
+com\lifeos\LifeOsApplication.class
+com\lifeos\engine\CitySignalAnalyzer.class
